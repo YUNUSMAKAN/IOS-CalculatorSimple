@@ -1,1 +1,1 @@
-# IOS-CalculatorSimple
+# iOS-CalculatorSimple
